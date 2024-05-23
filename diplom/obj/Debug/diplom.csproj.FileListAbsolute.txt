@@ -1,0 +1,9 @@
+G:\3 год\sin\diplom\diplom\bin\Debug\diplom.exe.config
+G:\3 год\sin\diplom\diplom\obj\Debug\diplom.csprojResolveAssemblyReference.cache
+G:\3 год\sin\diplom\diplom\obj\Debug\diplom.Form1.resources
+G:\3 год\sin\diplom\diplom\obj\Debug\diplom.Properties.Resources.resources
+G:\3 год\sin\diplom\diplom\obj\Debug\diplom.csproj.GenerateResource.Cache
+G:\3 год\sin\diplom\diplom\bin\Debug\diplom.exe
+G:\3 год\sin\diplom\diplom\bin\Debug\diplom.pdb
+G:\3 год\sin\diplom\diplom\obj\Debug\diplom.exe
+G:\3 год\sin\diplom\diplom\obj\Debug\diplom.pdb
